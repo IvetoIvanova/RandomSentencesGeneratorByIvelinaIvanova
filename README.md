@@ -18,5 +18,5 @@ The source code for this project can be found [here](./RandomSentencesGenerator.
 ![Generated Sentence 3](./images/Screenshot3.png)
 ![Generated Sentence 4](./images/Screenshot4.png)
 *Another scenarios of the sentences generator in action.*
-# grammatical apologies
-Certain grammatical inaccuracies may be present in the generated sentences. Please excuse any grammatical errors in the generated text. While language proficiency is important to me, it wasn't the primary focus during the project's inception.
+
+*Certain grammatical inaccuracies may be present in the generated sentences. Please excuse any grammatical errors in the generated text. While language proficiency is important to me, it wasn't the primary focus during the project's inception.*

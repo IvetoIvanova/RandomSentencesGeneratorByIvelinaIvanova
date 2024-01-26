@@ -1,6 +1,6 @@
 # RandomSentencesGeneratorByIvelinaIvanova
 RandomSentencesGeneratorByIvelinaIvanova is a console-based Java implementation of the "Random Sentences Generator" that generates random sentences based on a predefined sentence model. 
-(./images/RandomSentenceGenerator.jpg)
+![](./images/RandomSentenceGenerator.jpg)
 The goal of this project is to provide a fun and creative way to generate diverse and interesting sentences with different structures. These phrases can add a touch of humour and be a cool way to surprise other by sharing a stand-out sentence on social media platform and gathering your network`s reaction.
 
 ## Solution

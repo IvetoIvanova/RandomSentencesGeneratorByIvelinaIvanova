@@ -12,11 +12,11 @@ The solution involves creating arrays for names, places, verbs, nouns, adverbs, 
 The source code for this project can be found [here](./RandomSentencesGenerator.java).
 
 ## Screenshots
+*Example of a generated sentence:*
 ![Generated Sentence 1](./images/Screenshot1.png)
-*Example of a generated sentence.*
+*Another scenarios of the sentences generator in action:*
 ![Generated Sentence 2](./images/Screenshot2.png)
 ![Generated Sentence 3](./images/Screenshot3.png)
 ![Generated Sentence 4](./images/Screenshot4.png)
-*Another scenarios of the sentences generator in action.*
-# grammatical apologies
-Certain grammatical inaccuracies may be present in the generated sentences. Please excuse any grammatical errors in the generated text. While language proficiency is important to me, it wasn't the primary focus during the project's inception.
+
+*Certain grammatical inaccuracies may be present in the generated sentences. Please excuse any grammatical errors in the generated text. While language proficiency is important to me, it wasn't the primary focus during the project's inception.*

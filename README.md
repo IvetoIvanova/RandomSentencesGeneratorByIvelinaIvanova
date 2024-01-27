@@ -1,7 +1,8 @@
 # RandomSentencesGeneratorByIvelinaIvanova
-<p align="left">
-  <img src="https://github.com/IvetoIvanova/RandomSentencesGeneratorByIvelinaIvanova/blob/main/images/RandomSentenceGenerator.jpg" alt="Random Sentences Generator's image"> RandomSentencesGeneratorByIvelinaIvanova is a console-based Java implementation of the "Random Sentences Generator" that generates random sentences based on a predefined sentence model. The goal of this project is to provide a fun and creative way to generate diverse and interesting sentences with different structures. These phrases can add a touch of humour and be a cool way to surprise other by sharing a stand-out sentence on social media platform and gathering your network`s reaction.
-</p>
+<div style="display: flex; justify-content: flex-end;">
+  <img src="https://github.com/IvetoIvanova/RandomSentencesGeneratorByIvelinaIvanova/blob/main/images/RandomSentenceGenerator.jpg" alt="Random Sentences Generator's image"> 
+  <p>RandomSentencesGeneratorByIvelinaIvanova is a console-based Java implementation of the "Random Sentences Generator" that generates random sentences based on a predefined sentence model. The goal of this project is to provide a fun and creative way to generate diverse and interesting sentences with different structures. These phrases can add a touch of humour and be a cool way to surprise other by sharing a stand-out sentence on social media platform and gathering your network`s reaction.</p>
+</div>
 
 ## Solution
 The solution involves creating arrays for names, places, verbs, nouns, adverbs, and details. The application uses a random word selection method to construct sentences based on various sentence structures, including normal sentences, questions, and complex sentences.
